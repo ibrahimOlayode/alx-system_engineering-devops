@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
-0x00. Shell, basics DevOps Shell Bash
+Display the contents list of your current directory
